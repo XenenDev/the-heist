@@ -1,4 +1,4 @@
-# Konosis
+# The Heist
 Python text based adventure game
 
 ye so thats it!
